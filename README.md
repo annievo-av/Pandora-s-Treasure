@@ -9,6 +9,6 @@ The product, Pandora’s Treasure, shall be a single-player computer game.
 - Level editor: Tiled Map Editor
 - Game Engine: GameMaker Studio
 
-## Team Penguin:
+## Penguin Production II
 
 Annie Vo, Josephine Willgrubs, Charlotte Phillips, Joshua Fryar, Florencio Santibanez
